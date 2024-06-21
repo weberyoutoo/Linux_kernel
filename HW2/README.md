@@ -49,3 +49,11 @@ else
  
 endif
 ```
+## Commands
+```bash
+lsmod
+insmod
+rmmod
+
+make modules_install
+```
