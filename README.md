@@ -1,5 +1,5 @@
 # Linux_kernel
-Homework
+Assignment
 
 ## Linux Cross Reference
 The approaches below are used to get the Linux kernel source code references, such as struct definition, function definition, etc.
